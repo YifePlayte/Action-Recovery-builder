@@ -1,4 +1,4 @@
-name: Make Recovery
+name: Make Recovery for VAB/AB
 
 on:
   workflow_dispatch:
